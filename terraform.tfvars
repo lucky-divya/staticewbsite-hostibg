@@ -1,0 +1,1 @@
+bucket_name = "cp-ststic-website-hosting-s3-divya"
